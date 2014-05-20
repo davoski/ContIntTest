@@ -1,0 +1,19 @@
+{
+    "username": "dwalshe@78demo.com", 
+    "environment": "production", 
+    "project_name": "My Partner Developer", 
+    "workspace": "C:\\Users\\DavidWalshe\\MM Workspaces", 
+    "org_url": "", 
+    "namespace": "", 
+    "id": "369MFA9CBNBOC7JXLC4KS9IPYLY5YBQM", 
+    "metadata_container": "1dcE0000000PDTbIAO", 
+    "subscription": [
+        "ApexClass", 
+        "ApexComponent", 
+        "ApexPage", 
+        "ApexTrigger", 
+        "CustomObject", 
+        "Profile", 
+        "StaticResource"
+    ]
+}

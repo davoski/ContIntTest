@@ -1,0 +1,95 @@
+{
+    "externalReferences": [], 
+    "innerClasses": [], 
+    "variables": [
+        {
+            "references": [], 
+            "modifiers": [], 
+            "type": "Set", 
+            "name": "kaIds", 
+            "location": {
+                "column": 11, 
+                "line": 12
+            }
+        }, 
+        {
+            "references": [], 
+            "modifiers": [], 
+            "type": "CaseArticle", 
+            "name": "ca", 
+            "location": {
+                "column": 19, 
+                "line": 14
+            }
+        }
+    ], 
+    "constructors": [
+        {
+            "modifiers": [], 
+            "name": "KA_Display_Controller", 
+            "parameters": [], 
+            "visibility": "PUBLIC", 
+            "references": [], 
+            "location": {
+                "column": 9, 
+                "line": 5
+            }, 
+            "type": null
+        }
+    ], 
+    "namespace": null, 
+    "id": "01pE0000000Wr5Q", 
+    "tableDeclaration": {
+        "references": [], 
+        "modifiers": [], 
+        "type": "KA_Display_Controller", 
+        "name": "KA_Display_Controller", 
+        "location": {
+            "column": 27, 
+            "line": 1
+        }
+    }, 
+    "methods": [
+        {
+            "modifiers": [], 
+            "name": "getCasePassed", 
+            "parameters": [], 
+            "visibility": "PUBLIC", 
+            "references": [], 
+            "location": {
+                "column": 20, 
+                "line": 7
+            }, 
+            "returnType": "LIST", 
+            "type": null
+        }, 
+        {
+            "modifiers": [], 
+            "name": "getKAVersionList", 
+            "parameters": [], 
+            "visibility": "PUBLIC", 
+            "references": [], 
+            "location": {
+                "column": 39, 
+                "line": 11
+            }, 
+            "returnType": "LIST", 
+            "type": null
+        }
+    ], 
+    "key": "01pE0000000Wr5Q", 
+    "properties": [
+        {
+            "modifiers": [], 
+            "name": "caseId2", 
+            "visibility": "PUBLIC", 
+            "references": [], 
+            "location": {
+                "column": 12, 
+                "line": 3
+            }, 
+            "type": "Id"
+        }
+    ], 
+    "name": "KA_Display_Controller"
+}
